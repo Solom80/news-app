@@ -1,6 +1,6 @@
 # news_app
 
-A new Flutter project.
+Application which shows the news with categories
 
 ## Getting Started
 
